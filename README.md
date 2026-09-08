@@ -206,6 +206,7 @@ The wireless-control layer used the Tuya Bluetooth platform.
   <img src="images/app-control.jpg" width="620" alt="Ambient Light mobile app control">
 </p>
 
+*The original app interface was in Chinese; UI text in this image was translated to English for portfolio readability.*
 The mobile application provided scheduled operation and remote lighting control.
 
 <p align="center">
