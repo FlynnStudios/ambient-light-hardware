@@ -207,6 +207,7 @@ The wireless-control layer used the Tuya Bluetooth platform.
 </p>
 
 *The original app interface was in Chinese; UI text in this image was translated to English for portfolio readability.*
+
 The mobile application provided scheduled operation and remote lighting control.
 
 <p align="center">
@@ -249,9 +250,8 @@ Multiple assembled units were operated simultaneously in a **24/7 continuous lif
 This project taught me that getting a circuit to work on a bench is only the beginning.
 
 A usable hardware product must also account for **thermal behavior, RF performance, mechanical integration, assembly, serviceability, sourcing, repeatability, and cost.**
+
 ---
-
-
 
 ## Repository Scope
 
