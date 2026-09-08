@@ -240,23 +240,14 @@ Multiple assembled units were operated simultaneously in a **24/7 continuous lif
 
 ### Final Results
 
-- **30+ physical units** assembled
-- Approximately **5–6 PCB / hardware iterations**
-- Dual-channel warm/cool PWM lighting control
-- Bluetooth mobile-app integration
-- Repeated SMT assembly and board rework
-- Multi-unit continuous lifetime testing
-- Component sourcing and supplier comparison
-- BOM and cost tracking
-- Small-batch assembly experience
+- **30+ physical units** assembled and tested
+- Multi-unit **24/7 continuous lifetime testing**
+- Experience spanning PCB iteration, SMT rework, sourcing, cost tracking, and small-batch assembly
 - **Silver Award — Jinan University Challenge Cup**
 
 This project taught me that getting a circuit to work on a bench is only the beginning.
 
-A usable hardware product must also account for:
-
-**thermal behavior, RF performance, mechanical integration, assembly, serviceability, sourcing, repeatability, and cost.**
-
+A usable hardware product must also account for **thermal behavior, RF performance, mechanical integration, assembly, serviceability, sourcing, repeatability, and cost.**
 ---
 
 
