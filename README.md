@@ -145,7 +145,7 @@ Different mechanical components were compared for fit, appearance, assembly, sou
 ### First Full Assembly
 
 <p align="center">
-  <img src="images/first-assembly-finalprototype.jpg" width="700" alt="First full Ambient Light assembly prototype">
+  <img src="images/first-assembly-prototype.jpg" width="700" alt="First full Ambient Light assembly prototype">
 </p>
 
 *First full assembly prototype before painting and final surface finishing.*
@@ -259,29 +259,7 @@ A usable hardware product must also account for:
 
 ---
 
-## Repository Structure
 
-```text
-ambient-light-hardware/
-├── README.md
-├── images/
-│   ├── hero.png
-│   ├── app-control.jpg
-│   ├── component-selection.jpg
-│   ├── early-prototype.jpg
-│   ├── first-assembly-finalprototype.jpg
-│   ├── lifetime-test.jpg
-│   ├── pcb-revision.jpg
-│   ├── prototype-testing.jpg
-│   └── warm-cool-demo.jpg
-├── hardware/
-│   ├── schematic-overview.png
-│   └── pcb-overview.png
-└── demo/
-    └── app-control-demo.mp4
-```
-
----
 
 ## Repository Scope
 
